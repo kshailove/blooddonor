@@ -1,0 +1,8 @@
+<div class="modal-header">
+    <h3>{{statusMessage}}</h3>
+</div>
+<div class="form-group">
+    <label>{{staticMessage}}</label>
+</div>
+
+

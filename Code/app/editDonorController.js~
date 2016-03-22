@@ -1,0 +1,6 @@
+var myApp = angular.module('myApp');
+myApp.controller('EditDonorController', function($scope, $routeParams) {
+			$scope.user_id = $routeParams._id;
+
+});
+
